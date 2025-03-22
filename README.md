@@ -39,7 +39,7 @@
 |----------|------|--------|
 | [Airbnb Clone](https://github.com/Maimai10808/Airbnb-Clone-App) | 基于 SwiftUI 的 Airbnb 仿制项目，支持房源展示与地图集成 | SwiftUI, MVVM, MapKit, Codable |
 | [YourHealth_App](https://github.com/Maimai10808/YourHealth_App) | 专为注重饮食健康的人群设计，支持个性化设置、健康新闻爬取、餐食自定义 | SwiftUI, RSS Fetch, CoreData  |
-| [点菜-APP]((https://github.com/Maimai10808/Appetizers_App)) | 设置点餐人的姓名和年龄，选择纸巾需求，并且计算价格。 | SwiftUI, UIKit, CoreData |
+| [YourHealth_APP](https://github.com/Maimai10808/Appetizers_App) | 设置点餐人的姓名和年龄，选择纸巾需求，并且计算价格。 | SwiftUI, UIKit, CoreData |
 
 ### 🧪 其他项目
 
