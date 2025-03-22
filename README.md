@@ -43,7 +43,7 @@
 
 ### 🧪 其他项目
 
-- 🎮 [Swift Arcade](https://github.com/Maimai10808/Space-Invader-py)：使用 Python 和 Pygame 开发的经典太空射击游戏  
+- 🎮 [Space Invader](https://github.com/Maimai10808/Space-Invader-py)：使用 Python 和 Pygame 开发的经典太空射击游戏  
 - 🧭 [LocationKit Demo](链接)：演示如何使用 CoreLocation 和 MapKit
 - 🧭 [Atelier](https://github.com/Maimai10808/Atelier)：本人在学习和提升自我阅读的一些书籍，也包括一些休闲读物。
 
