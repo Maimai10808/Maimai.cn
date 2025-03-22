@@ -38,13 +38,14 @@
 | 项目名称 | 描述 | 技术栈 |
 |----------|------|--------|
 | [Airbnb Clone](https://github.com/Maimai10808/Airbnb-Clone-App) | 基于 SwiftUI 的 Airbnb 仿制项目，支持房源展示与地图集成 | SwiftUI, MVVM, MapKit, Codable |
-| [YourHealth_App](https://github.com/Maimai10808/YourHealth_App) | 专为注重饮食健康的人群设计，支持个性化设置、健康新闻爬取、餐食自定义 | SwiftUI, RSS Fetch, CoreData  |
+| [Appetizers APP](https://github.com/Maimai10808/YourHealth_App) | 专为注重饮食健康的人群设计，支持个性化设置、健康新闻爬取、餐食自定义 | SwiftUI, RSS Fetch, CoreData  |
 | [YourHealth_APP](https://github.com/Maimai10808/Appetizers_App) | 设置点餐人的姓名和年龄，选择纸巾需求，并且计算价格。 | SwiftUI, UIKit, CoreData |
 
 ### 🧪 其他项目
 
 - 🎮 [Swift Arcade](https://github.com/Maimai10808/Space-Invader-py)：使用 Python 和 Pygame 开发的经典太空射击游戏  
 - 🧭 [LocationKit Demo](链接)：演示如何使用 CoreLocation 和 MapKit
+- 🧭 [Atelier](https://github.com/Maimai10808/Atelier)：本人在学习和提升自我阅读的一些书籍，也包括一些休闲读物。
 
 ---
 
