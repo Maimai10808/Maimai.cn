@@ -39,6 +39,7 @@
 |----------|------|--------|
 | [Airbnb Clone APP](https://github.com/Maimai10808/Airbnb-Clone-App) | 基于 SwiftUI 的 Airbnb 仿制项目，支持房源展示与地图集成 | SwiftUI, MVVM, MapKit, Codable |
 | [Appetizers APP](https://github.com/Maimai10808/YourHealth_App) | 专为注重饮食健康的人群设计，支持个性化设置、健康新闻爬取、餐食自定义 | SwiftUI, RSS Fetch, CoreData  |
+| [FrameWork Navigation APP](https://github.com/Maimai10808/FrameWorkNavigation-APP) | 基于 SwiftUI 和 UIKit 帮助下，展示 Apple 各种框架的详细信息 | SwiftUI, UIKit ，MVVM|
 | [Barcode Scanner App](https://github.com/Maimai10808/BarcodeScanner/tree/main) | 基于 SwiftUI 和 AVFoundation 帮助下，进行条形码数字自动识别处理 | SwiftUI ，MVVM， AVFoundation |
 | [YourHealth_APP](https://github.com/Maimai10808/Appetizers_App) | 设置点餐人的姓名和年龄，选择纸巾需求，并且计算价格。 | SwiftUI, UIKit, CoreData |
 | [Twitter Clone APP](https://github.com/Maimai10808/Twitter-Clone-APP) | 基于 SwiftUI 和 Firebase 帮助下，进行用户注册、登录、发布推文、点赞、关注和个人资料管理等功能的实现。 | SwiftUI, MVVM, Firebase Authentication, Firebase Firestore, Firebase Storage, Combine, Cloud Firestore |
