@@ -42,6 +42,7 @@
 | [FrameWork Navigation APP](https://github.com/Maimai10808/FrameWorkNavigation-APP) | 基于 SwiftUI 和 UIKit 帮助下，展示 Apple 各种框架的详细信息 | SwiftUI, UIKit ，MVVM|
 | [Barcode Scanner App](https://github.com/Maimai10808/BarcodeScanner/tree/main) | 基于 SwiftUI 和 AVFoundation 帮助下，进行条形码数字自动识别处理 | SwiftUI ，MVVM， AVFoundation |
 | [YourHealth_APP](https://github.com/Maimai10808/Appetizers_App) | 基于SwiftUI 开发的健康应用 | SwiftUI, UIKit, CoreData |
+| [TikTok Clone_APP](https://github.com/Maimai10808/TikTok-Clone) | 基于SwiftUI 开发的TikTok应用 | SwiftUI, UIKit,Combine, CoreData |
 | [Pokedex APP](https://github.com/Maimai10808/Pokedex-APP) | 基于SwiftUI 开发的现代化宝可梦图鉴应用 | SwiftUI, MVVM, Kingfisher |
 | [Twitter Clone APP](https://github.com/Maimai10808/Twitter-Clone-APP) | 基于 SwiftUI 和 Firebase 帮助下，进行用户注册、登录、发布推文、点赞、关注和个人资料管理等功能的实现。 | SwiftUI, MVVM, Firebase Authentication, Firebase Firestore, Firebase Storage, Combine, Cloud Firestore |
 
