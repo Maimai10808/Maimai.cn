@@ -53,6 +53,7 @@
 - 🧭 [Atelier](https://github.com/Maimai10808/Atelier)：本人在学习和提升自我阅读的一些书籍，也包括一些休闲读物。
 -  [AVPlayerViewController](https://github.com/Maimai10808/AVPlayerViewController)：AVPlayerViewController
 -  [Eloquent JavaScript](https://eloquentjavascript.net/)：Eloquent JavaScript
+-  [UberMapViewRepresentable](https://github.com/Maimai10808/UberMapViewRepresentable)：UberMapViewRepresentable swift地图组件
 
 ---
 
