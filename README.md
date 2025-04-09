@@ -14,6 +14,8 @@
 你好，我是 Maimai，一名热衷于使用 Swift 和 SwiftUI 构建简洁、优雅且用户友好应用的 iOS 开发者。  
 我喜欢将创意转化为美观且实用的 App。
 
+2025年4月9日晚上11点，本人斥巨资购买了apple developer membership，每年99美元。
+
 - 🔭 当前正在开发的项目：[你的主力项目](项目链接)
 - 🌱 正在学习的内容：Swift 并发、SwiftData、Combine
 - 📫 联系方式：331686549@qq.com ｜ [LinkedIn](你的链接) ｜ [微博/知乎/掘金等]
