@@ -50,6 +50,7 @@
 | [Twitter Clone APP](https://github.com/Maimai10808/Twitter-Clone-APP) | 基于 SwiftUI 和 Firebase 帮助下，进行用户注册、登录、发布推文、点赞、关注和个人资料管理等功能的实现。 | SwiftUI, MVVM, Firebase Authentication, Firebase Firestore, Firebase Storage, Combine, Cloud Firestore |
 | [UnitsApp](https://github.com/Maimai10808/UnitsApp) | 基于 SwiftUI 构建的现代化单位转换应用 | SwiftUI，MVVM  |
 | [Fitness-App](https://github.com/Maimai10808/Fitness-App) | 基于 SwiftUI 构建的现代化单位转换应用 | SwiftUI，MVVM  |
+| [QuizApp](https://github.com/Maimai10808/QuizApp) | 基于 SwiftUI 构建的现代化单位转换应用 | SwiftUI，MVVM  |
 
 
 ### 🧪 其他项目
