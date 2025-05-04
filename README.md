@@ -51,6 +51,7 @@
 | [UnitsApp](https://github.com/Maimai10808/UnitsApp) | 基于 SwiftUI 构建的现代化单位转换应用 | SwiftUI，MVVM  |
 | [Fitness-App](https://github.com/Maimai10808/Fitness-App) | 基于 SwiftUI 构建的现代化单位转换应用 | SwiftUI，MVVM  |
 | [QuizApp](https://github.com/Maimai10808/QuizApp) | 基于 SwiftUI 构建的现代化单位转换应用 | SwiftUI，MVVM  |
+| [Calendly](https://github.com/Maimai10808/Calendly) | 基于 SwiftUI 构建的现代化单位转换应用 | SwiftUI，MVVM  |
 
 
 ### 🧪 其他项目
